@@ -6,12 +6,9 @@
 
 # Implementation Details
 
-```
-
 
 [Download Latest Release](https://github.com/FreelanceProgrammingServices/ToggleDockAutohide/releases/latest)
 
-</div>
 
 ## Installation
 
@@ -22,7 +19,7 @@
 
 ## Support
 Tested on:
- macOS Sonoma 
+ Sonoma macOS 
 
 
 ## License
